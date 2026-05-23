@@ -1,0 +1,15 @@
+
+=== Security Investigation Report ===
+
+Overall Severity: HIGH
+
+Total Failed Login Attempts: 4
+
+Suspicious IP Activity:
+- 192.168.1.10: 2 failed attempts
+- 203.0.113.50: 2 failed attempts
+
+Recommendations:
+- Investigate suspicious login activity
+- Review SSH authentication controls
+- Consider blocking repeated attacker IPs
